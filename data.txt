@@ -1,0 +1,129 @@
+verifyTheInformationLinksAvailableAtTheItemLevelPageWhenLoggedInBySuperAuthor  --- Loading issue
+verifyNarrativeItemPropertyThroughPropertiesTabOnFullEditor  ---  item deleted
+verifyThatSystemDoesNotThrowsCommunicationErrorOnDeletionOfItem --- item deleted
+verifyThatApplicationDisplaysDivClassTagInTheContentServiceXml --- Loading issue
+
+Unable to add items - error: XDMP-MODNOTFOUND
+
+testbank import, cognero import
+
+
+1.)  This slip supports a list of automation scripts for Geyser v1.0.89
+
+Geyser,story,fix version
+
+Failed tests:
+  ItemEditors_Level_Tests.verifyInsertAnswerFieldOption:463 FAILED: Element 'linkBtnWithDynamicTitle' not found on the SectionLevelPage !!!
+  ItemEditors_Level_Tests.verifyInsertEditImageFunctionality:129 FAILED: Element 'sidebarDirectoryStructureIframe' not found on the SectionLevelPage !!!
+  ItemEditors_Level_Tests.verifyTrigonometryToolSetsToolSetInFormulaEditor:279 » Timeout
+  ItemEditors_Level_Tests.verifyUndoButton:53 The strings does not match!!! expected [Question. Answer: Test] but found [Question. Answer:]
+
+aupr98a
+
+11981, 11873
+
+
+bug = bug id
+
+verifyThatNeedsAnalysisGetsRemovedWhenTheCXPAnalyzerIsRun
+
+
+cendoc-->1,5 options check to import
+
+cnow-->2,3
+
+
+
+bugs - 
+bug id=GEYSER-12240
+
+1. GEYSER_Prod_A_190 - - "History" tab under 'view/manage cendoc fragments'
+2. GEYSER_SAdmin_123 - - To Verify that 'needs analysis' gets removed when the CXP analyzer is run
+3. GEYSER_Prod_A_92 - Download' link under 'History'.
+4. checkVersionHistoryOfItemAndRevertOnPreviousVersion
+5. webQuizLinkOnGeyserizerPage
+GEYSER-12150
+GEYSER-12261
+GEYSER-12269
+GEYSER-12270 
+
+
+verifyProductLinkUnderSearchInQuickMenuFind
+
+11370
+
+
+# Priority 1:
+30 05 * * *
+#@daily
+#scheduled to run at 05:30 AM daily
+# IST about 4:00 PM
+
+P1
+1. issue
+2. app slow..(wait)
+3. app slow..(product wasn't deleted)
+
+P2
+1. verifyFITBDnDTypeItemAreWorkingProperlyInVEViaHttps -  -  - Ui Change
+2. VerifySimpleSystemForAssociatingCenDocMindTapNodeIdsWithAssessmentContentItems - - - corrected (element missing)
+3. downloadLinkUnderHistory - - - issue
+
+verifyTheAppearanceOfSearchCriteriaOptionsAsSelectedByTheUserOnItemSearchPage
+issue---verifyThatNeedsAnalysisGetsRemovedWhenTheCXPAnalyzerIsRun 
+
+Automated: 
+GEYSER_Prod_A_376      --- p2 --- (Geyser-12152)
+GEYSER_Prod_A_381      --- p2 --- (Geyser-11890)
+GEYSER_SAdmin_135      --- p2 --- (Geyser-12187)
+GEYSER_Prod_A_59       --- p1 --- (Geyser-12139)
+GEYSER_TOP_SAdmin_170  --- p2 --- (Geyser-12124)
+GEYSER_Prod_A_377      --- p2 --- (Geyser-12229)
+
+
+
+
+
+shape1_859875_clone1
+GEYSER_Sec_SAdmin_49
+777909517
+mapech07h
+
+p3 failures reolved:-
+1. com.qait.geyser.priority3.tests.Item_Level_Tests.verifyTheInformationLinksAvailableAtTheItemLevelPageWhenLoggedInBySuperAuthor
+2.  com.qait.geyser.priority3.tests.ItemEditors_Level_Tests.verifyOtherPropertiesOptionsAreAvailableUnderPropertiesTab
+3. com.qait.geyser.priority3.tests.Section_Level_Tests.verifyThatApplicationShouldWrapTheTitleNameColumnForLongItemName
+4. com.qait.geyser.priority3.tests.ItemEditors_Level_Tests.verifyThatApplicationDisplaysTheInteractionWidgetUnderHeadingQuestion
+5. com.qait.geyser.priority3.tests.Top_Level_Tests.webQuizLinkOnGeyserizerPage
+6. verifyThatFunctionalityForImportAssetMetadataFromNavTocIsWorkingFineOnGivingProperPathOfAsstes
+7. com.qait.geyser.priority3.tests.Top_Level_Tests.verifyThatAnAdhocQueryWasCreatedToCleanGeyserVarLogFolder
+
+npm init
+npm install mocha --save
+npm test
+
+GEYSER_TOP_SAdmin_115
+GEYSER_TOP_SAdmin_123
+
+GEYSER_TOP_SAdmin_49
+GEYSER_TOP_SAdmin_58
+GEYSER_TOP_SAdmin_140
+GEYSER_TOP_SAdmin_155
+GEYSER_TOP_SAdmin_161
+
+window.frames[0].document.getElementsByName('')[0].innerHTML='text'
+DB:TA01
+PRODUCT: testbank_autot, test038hYesNo
+AUTHOR: TESTaUTOMATION
+CHAPTER:Chapter 1: Data and Statistics
+type:fitb
+concepts: series
+
+GEYSER_Visual_SA_77
+////GEYSER_Visual_SA_80,81,82,83////
+//GEYSER_Visual_SA_21
+//GEYSER_Visual_SA_22
+//GEYSER_FULL_SA_5
+
+//body[@id='tinymce']/p
+

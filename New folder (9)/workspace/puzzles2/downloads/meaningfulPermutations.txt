@@ -1,0 +1,12 @@
+run, nut, rut, ran, tan, tar, rat, tau, art, ant, urn, 
+Total Number of 3-letter Meaningful Words are: 11
+
+rant, turn, tarn, runt, naut, tuna, aunt, 
+Total Number of 4-letter Meaningful Words are: 7
+
+
+Total Number of 5-letter Meaningful Words are: 0
+
+
+
+Total Number of Meaningful Words are: 18
